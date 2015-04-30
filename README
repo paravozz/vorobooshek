@@ -34,7 +34,7 @@ IF YOU DONT NOW WHAT IT MEAN, PLEASE DON'T TRY TO DO IT, OR DUMP YOURE CURRENT U
 !!!WARNING!!!
 
 1. Patch youre MySQL database 'User' table, by file "mysql_vorobooshek_user_database.sql";
-2. Patch youre MySQL Connection by file "vorobooshek_database.sql"(This patch must create database 'vorobooshek' with a table 'accounts' and fields 'account: Test', 'password: Test');
+2. Create database vorobooshek. Patch youre MySQL base by file "vorobooshek_database.sql"(This patch must create database 'vorobooshek' with a table 'accounts' and fields 'account: Test', 'password: Test');
 3. Open port 7770 (if not opened) and run "ChatServer.exe";
 4. Run "Vorobooshek Test.exe" and try to chat.
 5. Profit!
