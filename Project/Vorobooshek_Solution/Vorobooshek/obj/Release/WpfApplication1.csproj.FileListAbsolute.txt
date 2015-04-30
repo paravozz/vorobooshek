@@ -1,0 +1,24 @@
+C:\Users\admin\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Release\MainWindow.baml
+C:\Users\admin\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Release\MainWindow.g.cs
+C:\Users\admin\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Release\App.g.cs
+C:\Users\admin\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.Properties.Resources.resources
+C:\Users\admin\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Release\Vorobooshek Test.exe
+C:\Users\admin\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Release\Vorobooshek Test.pdb
+C:\Users\admin\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Release\Vorobooshek Test_MarkupCompile.cache
+C:\Users\admin\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Release\Vorobooshek Test.g.resources
+C:\Users\admin\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Release\Vorobooshek Test.exe
+C:\Users\admin\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Release\Vorobooshek Test.pdb
+C:\Users\admin\OneDrive\Projects\WpfApplication1\WpfApplication1\obj\Release\Vorobooshek Test.exe
+C:\Users\admin\OneDrive\Projects\WpfApplication1\WpfApplication1\obj\Release\Vorobooshek Test.pdb
+C:\Users\admin\OneDrive\Projects\WpfApplication1\WpfApplication1\bin\Release\Vorobooshek Test.exe
+C:\Users\admin\OneDrive\Projects\WpfApplication1\WpfApplication1\bin\Release\Vorobooshek Test.pdb
+C:\Users\admin\OneDrive\Projects\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\admin\OneDrive\Projects\WpfApplication1\WpfApplication1\obj\Release\MainWindow.baml
+C:\Users\admin\OneDrive\Projects\WpfApplication1\WpfApplication1\obj\Release\MainWindow.g.cs
+C:\Users\admin\OneDrive\Projects\WpfApplication1\WpfApplication1\obj\Release\App.g.cs
+C:\Users\admin\OneDrive\Projects\WpfApplication1\WpfApplication1\obj\Release\Vorobooshek Test_MarkupCompile.cache
+C:\Users\admin\OneDrive\Projects\WpfApplication1\WpfApplication1\obj\Release\Vorobooshek Test.g.resources
+C:\Users\admin\OneDrive\Projects\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.Properties.Resources.resources
+C:\Users\admin\OneDrive\Projects\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.csproj.GenerateResource.Cache

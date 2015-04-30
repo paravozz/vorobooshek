@@ -1,0 +1,3 @@
+login: prvz
+password: 010233
+theme: 3

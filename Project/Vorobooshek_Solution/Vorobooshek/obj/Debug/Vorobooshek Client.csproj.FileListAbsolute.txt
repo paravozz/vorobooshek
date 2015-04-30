@@ -1,0 +1,14 @@
+C:\Users\admin\OneDrive\Projects\WpfApplication1\WpfApplication1\bin\Debug\Vorobooshek Test.exe
+C:\Users\admin\OneDrive\Projects\WpfApplication1\WpfApplication1\bin\Debug\Vorobooshek Test.pdb
+C:\Users\admin\OneDrive\Projects\WpfApplication1\WpfApplication1\obj\Debug\Vorobooshek Client.csprojResolveAssemblyReference.cache
+C:\Users\admin\OneDrive\Projects\WpfApplication1\WpfApplication1\obj\Debug\Autorize.baml
+C:\Users\admin\OneDrive\Projects\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\admin\OneDrive\Projects\WpfApplication1\WpfApplication1\obj\Debug\Autorize.g.cs
+C:\Users\admin\OneDrive\Projects\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\admin\OneDrive\Projects\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\admin\OneDrive\Projects\WpfApplication1\WpfApplication1\obj\Debug\Vorobooshek Test_MarkupCompile.cache
+C:\Users\admin\OneDrive\Projects\WpfApplication1\WpfApplication1\obj\Debug\Vorobooshek Test.g.resources
+C:\Users\admin\OneDrive\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\admin\OneDrive\Projects\WpfApplication1\WpfApplication1\obj\Debug\Vorobooshek Client.csproj.GenerateResource.Cache
+C:\Users\admin\OneDrive\Projects\WpfApplication1\WpfApplication1\obj\Debug\Vorobooshek Test.exe
+C:\Users\admin\OneDrive\Projects\WpfApplication1\WpfApplication1\obj\Debug\Vorobooshek Test.pdb
