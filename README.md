@@ -1,21 +1,8 @@
-﻿/* Copyright 2015 Ilya Perevoznik
-
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
-
-    http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License. */
-
-README
+VOROBOOSHEK
 
 -------------------------------------
 Included in Release folder:
+
 1. ChatServer;
 2. MySQL.Connector dll library;
 3. Vorobooshek Application Client;
@@ -29,8 +16,10 @@ It means, that if you want to test the application, you need:
 
 
 !!!WARNING!!!
+
 PATCHING OF MYSQL.USER TABLE IS DROP YOURE 'USER' TABLE AND CREATE NEW WITH A 1 RECORD - vorobooshek_user;
 IF YOU DONT NOW WHAT IT MEAN, PLEASE DON'T TRY TO DO IT, OR DUMP YOURE CURRENT USER TABLE, AND PATCH WITH A NEW AFTER THAT
+
 !!!WARNING!!!
 
 1. Patch youre MySQL database 'User' table, by file "mysql_vorobooshek_user_database.sql";
@@ -53,3 +42,17 @@ if you have any questions:
 e-mail: prvz-work@outlook.com
 
 P.S. THE IDEA OF CHAT REALISATION IS BY HackingMemory - https://www.youtube.com/user/HackingMemory
+
+﻿/* Copyright 2015 Ilya Perevoznik
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License. */
