@@ -1,11 +1,11 @@
-VOROBOOSHEK
+<h1>VOROBOOSHEK</h1>
 
 -------------------------------------
 
 <img src="https://travis-ci.org/paravozz/vorobooshek.svg?branch=master"></img>
 
 -------------------------------------
-Included in Release folder:
+<h2>Included in Release folder:</h2>
 
 1. ChatServer;
 2. MySQL.Connector dll library;
@@ -19,12 +19,12 @@ ChatServer default setup at 7770 port. Client Application default setup is 127.0
 It means, that if you want to test the application, you need:
 
 
-!!!WARNING!!!
+<h2 style="color: red;">!!!WARNING!!!</h2>
 
 PATCHING OF MYSQL.USER TABLE IS DROP YOURE 'USER' TABLE AND CREATE NEW WITH A 1 RECORD - vorobooshek_user;
 IF YOU DONT NOW WHAT IT MEAN, PLEASE DON'T TRY TO DO IT, OR DUMP YOURE CURRENT USER TABLE, AND PATCH WITH A NEW AFTER THAT
 
-!!!WARNING!!!
+<h2 style="color: red;">!!!WARNING!!!</h2>
 
 1. Patch youre MySQL database 'User' table, by file "mysql_vorobooshek_user_database.sql";
 2. Create database vorobooshek. Patch youre MySQL base by file "vorobooshek_database.sql"(This patch must create database 'vorobooshek' with a table 'accounts' and fields 'account: Test', 'password: Test');
