@@ -1,7 +1,9 @@
 VOROBOOSHEK
 
 -------------------------------------
-https://travis-ci.org/paravozz/vorobooshek.svg?branch=master
+
+<img src="https://travis-ci.org/paravozz/vorobooshek.svg?branch=master"></img>
+
 -------------------------------------
 Included in Release folder:
 
