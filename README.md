@@ -1,6 +1,8 @@
 VOROBOOSHEK
 
 -------------------------------------
+https://travis-ci.org/paravozz/vorobooshek.svg?branch=master
+-------------------------------------
 Included in Release folder:
 
 1. ChatServer;
